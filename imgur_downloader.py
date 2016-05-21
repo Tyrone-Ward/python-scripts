@@ -12,6 +12,7 @@ from imgurpython import ImgurClient
 # TODO: add metrics downloaded x images in x {min or sec}
 
 q = Queue.Queue(maxsize=0)
+# Change the number of simultaneous threads
 num_threads = 10
 
 client_id = ''
