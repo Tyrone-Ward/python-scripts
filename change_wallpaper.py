@@ -7,7 +7,7 @@ import subprocess
 import json
 import argparse
 
-#TODO: Add controls (pause, newest, previous)
+#DONE: Add controls (pause, newest, previous)
 #TODO: Add more sources
 #TODO: Create man page and auto completions
 #DONE: Save images
